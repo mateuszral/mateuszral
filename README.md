@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Ornontowice, Slaskie, Poland
 * ✉️  You can contact me at [mateuszral7@gmail.com](mailto:mateuszral7@gmail.com)
-* 🧠  Curently I am learning C# and Python.
+* 🧠  Curently I am learning Python.
 
 ### Skills
 
